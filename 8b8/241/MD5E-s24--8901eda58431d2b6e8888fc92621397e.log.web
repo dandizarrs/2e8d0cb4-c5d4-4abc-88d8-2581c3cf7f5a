@@ -1,0 +1,4 @@
+1727626499s 1 https://dandiarchive.s3.amazonaws.com/zarr/2e8d0cb4-c5d4-4abc-88d8-2581c3cf7f5a/acquisition/data_00129_AD0/starting_time/0?versionId=NCggW1CTBoZICONoFMgvJpf7iE5.jGX_
+1727626499s 1 https://api.dandiarchive.org/api/zarr/2e8d0cb4-c5d4-4abc-88d8-2581c3cf7f5a/files?prefix=acquisition%2Fdata_00129_AD0%2Fstarting_time%2F0&download=true
+1727629042s 1 https://dandiarchive.s3.amazonaws.com/zarr/2e8d0cb4-c5d4-4abc-88d8-2581c3cf7f5a/stimulus/presentation/data_00129_DA0/starting_time/0?versionId=BjJnwOzZU_fILmJvPH7WZr8d1wIauRd2
+1727629042s 1 https://api.dandiarchive.org/api/zarr/2e8d0cb4-c5d4-4abc-88d8-2581c3cf7f5a/files?prefix=stimulus%2Fpresentation%2Fdata_00129_DA0%2Fstarting_time%2F0&download=true

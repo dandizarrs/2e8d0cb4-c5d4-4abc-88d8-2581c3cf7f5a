@@ -1,0 +1,16 @@
+1727625805s 1 https://dandiarchive.s3.amazonaws.com/zarr/2e8d0cb4-c5d4-4abc-88d8-2581c3cf7f5a/acquisition/data_00000_AD0/capacitance_fast/.zattrs?versionId=TT55l7tXqgbvPYjlQdWoQbkfW60EGgyS
+1727625805s 1 https://api.dandiarchive.org/api/zarr/2e8d0cb4-c5d4-4abc-88d8-2581c3cf7f5a/files?prefix=acquisition%2Fdata_00000_AD0%2Fcapacitance_fast%2F.zattrs&download=true
+1727625807s 1 https://dandiarchive.s3.amazonaws.com/zarr/2e8d0cb4-c5d4-4abc-88d8-2581c3cf7f5a/acquisition/data_00000_AD0/capacitance_slow/.zattrs?versionId=vo6PsdqB59nY.gbCHtBTLW_0D9X9N86M
+1727625807s 1 https://api.dandiarchive.org/api/zarr/2e8d0cb4-c5d4-4abc-88d8-2581c3cf7f5a/files?prefix=acquisition%2Fdata_00000_AD0%2Fcapacitance_slow%2F.zattrs&download=true
+1727625830s 1 https://dandiarchive.s3.amazonaws.com/zarr/2e8d0cb4-c5d4-4abc-88d8-2581c3cf7f5a/acquisition/data_00001_AD0/capacitance_fast/.zattrs?versionId=AU.8Z45Rn09MpC9vkNKCA2jtqnC6Qx3V
+1727625830s 1 https://api.dandiarchive.org/api/zarr/2e8d0cb4-c5d4-4abc-88d8-2581c3cf7f5a/files?prefix=acquisition%2Fdata_00001_AD0%2Fcapacitance_fast%2F.zattrs&download=true
+1727625832s 1 https://dandiarchive.s3.amazonaws.com/zarr/2e8d0cb4-c5d4-4abc-88d8-2581c3cf7f5a/acquisition/data_00001_AD0/capacitance_slow/.zattrs?versionId=twQSrFH9GrqFLSVXfaVmBLRTEWlPjEyC
+1727625832s 1 https://api.dandiarchive.org/api/zarr/2e8d0cb4-c5d4-4abc-88d8-2581c3cf7f5a/files?prefix=acquisition%2Fdata_00001_AD0%2Fcapacitance_slow%2F.zattrs&download=true
+1727625857s 1 https://dandiarchive.s3.amazonaws.com/zarr/2e8d0cb4-c5d4-4abc-88d8-2581c3cf7f5a/acquisition/data_00002_AD0/capacitance_fast/.zattrs?versionId=TgGQlAv1qbjwkaWVBVINoT0QkMPsw.Ay
+1727625857s 1 https://api.dandiarchive.org/api/zarr/2e8d0cb4-c5d4-4abc-88d8-2581c3cf7f5a/files?prefix=acquisition%2Fdata_00002_AD0%2Fcapacitance_fast%2F.zattrs&download=true
+1727625860s 1 https://dandiarchive.s3.amazonaws.com/zarr/2e8d0cb4-c5d4-4abc-88d8-2581c3cf7f5a/acquisition/data_00002_AD0/capacitance_slow/.zattrs?versionId=1rWe2cfKqswOqGUcBvkzlP0ahv5glnww
+1727625860s 1 https://api.dandiarchive.org/api/zarr/2e8d0cb4-c5d4-4abc-88d8-2581c3cf7f5a/files?prefix=acquisition%2Fdata_00002_AD0%2Fcapacitance_slow%2F.zattrs&download=true
+1727625960s 1 https://dandiarchive.s3.amazonaws.com/zarr/2e8d0cb4-c5d4-4abc-88d8-2581c3cf7f5a/acquisition/data_00003_AD0/capacitance_fast/.zattrs?versionId=kaYIM4sICJ7Bhm6wjePXDHOxVB69D_tl
+1727625960s 1 https://api.dandiarchive.org/api/zarr/2e8d0cb4-c5d4-4abc-88d8-2581c3cf7f5a/files?prefix=acquisition%2Fdata_00003_AD0%2Fcapacitance_fast%2F.zattrs&download=true
+1727625960s 1 https://dandiarchive.s3.amazonaws.com/zarr/2e8d0cb4-c5d4-4abc-88d8-2581c3cf7f5a/acquisition/data_00003_AD0/capacitance_slow/.zattrs?versionId=dKd3zG_Vh1exsPI2mY5YmdPTxj6JG7lo
+1727625960s 1 https://api.dandiarchive.org/api/zarr/2e8d0cb4-c5d4-4abc-88d8-2581c3cf7f5a/files?prefix=acquisition%2Fdata_00003_AD0%2Fcapacitance_slow%2F.zattrs&download=true
